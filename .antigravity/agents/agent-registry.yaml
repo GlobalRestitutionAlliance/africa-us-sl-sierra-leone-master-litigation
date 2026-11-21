@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-sierra-leone-canal-and-intervention-historian
-  name: Sierra Leone Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-sierra-leone-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_sl_001
+    name: Sierra Leone Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_002
+    name: Sierra Leone Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_003
+    name: Sierra Leone Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_004
+    name: Sierra Leone Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_005
+    name: Sierra Leone Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_006
+    name: Sierra Leone Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_007
+    name: Sierra Leone Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_008
+    name: Sierra Leone Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_009
+    name: Sierra Leone Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_010
+    name: Sierra Leone Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_011
+    name: Sierra Leone Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_012
+    name: Sierra Leone Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_013
+    name: Sierra Leone Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_014
+    name: Sierra Leone Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_015
+    name: Sierra Leone Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_016
+    name: Sierra Leone Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_017
+    name: Sierra Leone Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_018
+    name: Sierra Leone Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_019
+    name: Sierra Leone Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_020
+    name: Sierra Leone Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_021
+    name: Sierra Leone Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_022
+    name: Sierra Leone Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_023
+    name: Sierra Leone Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_024
+    name: Sierra Leone Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_025
+    name: Sierra Leone Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_026
+    name: Sierra Leone Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_027
+    name: Sierra Leone Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_028
+    name: Sierra Leone Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_029
+    name: Sierra Leone Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_030
+    name: Sierra Leone Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_031
+    name: Sierra Leone Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_032
+    name: Sierra Leone Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_033
+    name: Sierra Leone Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_034
+    name: Sierra Leone Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_035
+    name: Sierra Leone Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_036
+    name: Sierra Leone Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_037
+    name: Sierra Leone Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_038
+    name: Sierra Leone Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_039
+    name: Sierra Leone Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_040
+    name: Sierra Leone Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_041
+    name: Sierra Leone Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_042
+    name: Sierra Leone Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_043
+    name: Sierra Leone Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_044
+    name: Sierra Leone Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_045
+    name: Sierra Leone Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_046
+    name: Sierra Leone Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_047
+    name: Sierra Leone Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_048
+    name: Sierra Leone Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_049
+    name: Sierra Leone Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_050
+    name: Sierra Leone Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_051
+    name: Sierra Leone Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_052
+    name: Sierra Leone Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_053
+    name: Sierra Leone Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_054
+    name: Sierra Leone Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_055
+    name: Sierra Leone Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_056
+    name: Sierra Leone Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_057
+    name: Sierra Leone Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_058
+    name: Sierra Leone Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_059
+    name: Sierra Leone Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_060
+    name: Sierra Leone Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_061
+    name: Sierra Leone Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_062
+    name: Sierra Leone Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_063
+    name: Sierra Leone Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_064
+    name: Sierra Leone Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_065
+    name: Sierra Leone Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_066
+    name: Sierra Leone Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_067
+    name: Sierra Leone Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_068
+    name: Sierra Leone Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_069
+    name: Sierra Leone Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_070
+    name: Sierra Leone Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_071
+    name: Sierra Leone Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_072
+    name: Sierra Leone Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_073
+    name: Sierra Leone Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_074
+    name: Sierra Leone Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_075
+    name: Sierra Leone Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_076
+    name: Sierra Leone Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_077
+    name: Sierra Leone Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_078
+    name: Sierra Leone Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_079
+    name: Sierra Leone Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_080
+    name: Sierra Leone Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_081
+    name: Sierra Leone Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_082
+    name: Sierra Leone Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_083
+    name: Sierra Leone Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_084
+    name: Sierra Leone Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_085
+    name: Sierra Leone Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_086
+    name: Sierra Leone Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_087
+    name: Sierra Leone Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_088
+    name: Sierra Leone Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_089
+    name: Sierra Leone Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_090
+    name: Sierra Leone Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_091
+    name: Sierra Leone Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_092
+    name: Sierra Leone Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_093
+    name: Sierra Leone Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_094
+    name: Sierra Leone Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_095
+    name: Sierra Leone Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_096
+    name: Sierra Leone Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_097
+    name: Sierra Leone Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_098
+    name: Sierra Leone Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_099
+    name: Sierra Leone Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_100
+    name: Sierra Leone Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_101
+    name: Sierra Leone Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_102
+    name: Sierra Leone Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_103
+    name: Sierra Leone Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_104
+    name: Sierra Leone Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_105
+    name: Sierra Leone Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_106
+    name: Sierra Leone Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_107
+    name: Sierra Leone Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_108
+    name: Sierra Leone Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_109
+    name: Sierra Leone Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_110
+    name: Sierra Leone Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_111
+    name: Sierra Leone Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_112
+    name: Sierra Leone Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_113
+    name: Sierra Leone Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_114
+    name: Sierra Leone Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_115
+    name: Sierra Leone Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_116
+    name: Sierra Leone Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_117
+    name: Sierra Leone Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_118
+    name: Sierra Leone Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_119
+    name: Sierra Leone Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_120
+    name: Sierra Leone Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_121
+    name: Sierra Leone Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_122
+    name: Sierra Leone Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_123
+    name: Sierra Leone Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_124
+    name: Sierra Leone Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_125
+    name: Sierra Leone Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_126
+    name: Sierra Leone Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_127
+    name: Sierra Leone Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_128
+    name: Sierra Leone Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_129
+    name: Sierra Leone Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_130
+    name: Sierra Leone Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_131
+    name: Sierra Leone Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_132
+    name: Sierra Leone Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_133
+    name: Sierra Leone Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_134
+    name: Sierra Leone Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_135
+    name: Sierra Leone Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_136
+    name: Sierra Leone Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_137
+    name: Sierra Leone Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_138
+    name: Sierra Leone Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_139
+    name: Sierra Leone Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_140
+    name: Sierra Leone Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_141
+    name: Sierra Leone Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_142
+    name: Sierra Leone Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_143
+    name: Sierra Leone Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_144
+    name: Sierra Leone Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_145
+    name: Sierra Leone Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_146
+    name: Sierra Leone Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_147
+    name: Sierra Leone Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_148
+    name: Sierra Leone Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_149
+    name: Sierra Leone Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_150
+    name: Sierra Leone Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_151
+    name: Sierra Leone Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_152
+    name: Sierra Leone Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_153
+    name: Sierra Leone Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_154
+    name: Sierra Leone Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_155
+    name: Sierra Leone Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_156
+    name: Sierra Leone Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_157
+    name: Sierra Leone Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_158
+    name: Sierra Leone Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_159
+    name: Sierra Leone Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_160
+    name: Sierra Leone Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_161
+    name: Sierra Leone Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_162
+    name: Sierra Leone Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_163
+    name: Sierra Leone Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_164
+    name: Sierra Leone Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_165
+    name: Sierra Leone Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_166
+    name: Sierra Leone Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_167
+    name: Sierra Leone Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_168
+    name: Sierra Leone Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_169
+    name: Sierra Leone Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sl_170
+    name: Sierra Leone Agent 170
+    status: ACTIVE_SCAFFOLD

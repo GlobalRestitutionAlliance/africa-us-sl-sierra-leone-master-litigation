@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: sierra-leonean-restitution-roadmap-and-qsf-trust-execution
-  name: Sierra Leonean Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/sierra-leonean-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_sl_001
+    name: Sierra Leone Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_002
+    name: Sierra Leone Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_003
+    name: Sierra Leone Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_004
+    name: Sierra Leone Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_005
+    name: Sierra Leone Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_006
+    name: Sierra Leone Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_007
+    name: Sierra Leone Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_008
+    name: Sierra Leone Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_009
+    name: Sierra Leone Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_010
+    name: Sierra Leone Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_011
+    name: Sierra Leone Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_012
+    name: Sierra Leone Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_013
+    name: Sierra Leone Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_014
+    name: Sierra Leone Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_015
+    name: Sierra Leone Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_016
+    name: Sierra Leone Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_017
+    name: Sierra Leone Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_018
+    name: Sierra Leone Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_019
+    name: Sierra Leone Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_020
+    name: Sierra Leone Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_021
+    name: Sierra Leone Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_022
+    name: Sierra Leone Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_023
+    name: Sierra Leone Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_024
+    name: Sierra Leone Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_025
+    name: Sierra Leone Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_026
+    name: Sierra Leone Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_027
+    name: Sierra Leone Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_028
+    name: Sierra Leone Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_029
+    name: Sierra Leone Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_030
+    name: Sierra Leone Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_031
+    name: Sierra Leone Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_032
+    name: Sierra Leone Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_033
+    name: Sierra Leone Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_034
+    name: Sierra Leone Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_035
+    name: Sierra Leone Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_036
+    name: Sierra Leone Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_037
+    name: Sierra Leone Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_038
+    name: Sierra Leone Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_039
+    name: Sierra Leone Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_040
+    name: Sierra Leone Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_041
+    name: Sierra Leone Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_042
+    name: Sierra Leone Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_043
+    name: Sierra Leone Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_044
+    name: Sierra Leone Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_045
+    name: Sierra Leone Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_046
+    name: Sierra Leone Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_047
+    name: Sierra Leone Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_048
+    name: Sierra Leone Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_049
+    name: Sierra Leone Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_050
+    name: Sierra Leone Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_051
+    name: Sierra Leone Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_052
+    name: Sierra Leone Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_053
+    name: Sierra Leone Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_054
+    name: Sierra Leone Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_055
+    name: Sierra Leone Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_056
+    name: Sierra Leone Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_057
+    name: Sierra Leone Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_058
+    name: Sierra Leone Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_059
+    name: Sierra Leone Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_060
+    name: Sierra Leone Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_061
+    name: Sierra Leone Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_062
+    name: Sierra Leone Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_063
+    name: Sierra Leone Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_064
+    name: Sierra Leone Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_065
+    name: Sierra Leone Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_066
+    name: Sierra Leone Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_067
+    name: Sierra Leone Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_068
+    name: Sierra Leone Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_069
+    name: Sierra Leone Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_070
+    name: Sierra Leone Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_071
+    name: Sierra Leone Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_072
+    name: Sierra Leone Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_073
+    name: Sierra Leone Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_074
+    name: Sierra Leone Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_075
+    name: Sierra Leone Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_076
+    name: Sierra Leone Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_077
+    name: Sierra Leone Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_078
+    name: Sierra Leone Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_079
+    name: Sierra Leone Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_080
+    name: Sierra Leone Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_081
+    name: Sierra Leone Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_082
+    name: Sierra Leone Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_083
+    name: Sierra Leone Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_084
+    name: Sierra Leone Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_085
+    name: Sierra Leone Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_086
+    name: Sierra Leone Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_087
+    name: Sierra Leone Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_088
+    name: Sierra Leone Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_089
+    name: Sierra Leone Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_090
+    name: Sierra Leone Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_091
+    name: Sierra Leone Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_092
+    name: Sierra Leone Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_093
+    name: Sierra Leone Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_094
+    name: Sierra Leone Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_095
+    name: Sierra Leone Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_096
+    name: Sierra Leone Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_097
+    name: Sierra Leone Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_098
+    name: Sierra Leone Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_099
+    name: Sierra Leone Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_100
+    name: Sierra Leone Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_101
+    name: Sierra Leone Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_102
+    name: Sierra Leone Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_103
+    name: Sierra Leone Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_104
+    name: Sierra Leone Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_105
+    name: Sierra Leone Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_106
+    name: Sierra Leone Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_107
+    name: Sierra Leone Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_108
+    name: Sierra Leone Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_109
+    name: Sierra Leone Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_110
+    name: Sierra Leone Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_111
+    name: Sierra Leone Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_112
+    name: Sierra Leone Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_113
+    name: Sierra Leone Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_114
+    name: Sierra Leone Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_115
+    name: Sierra Leone Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_116
+    name: Sierra Leone Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_117
+    name: Sierra Leone Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_118
+    name: Sierra Leone Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_119
+    name: Sierra Leone Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_120
+    name: Sierra Leone Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_121
+    name: Sierra Leone Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_122
+    name: Sierra Leone Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_123
+    name: Sierra Leone Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_124
+    name: Sierra Leone Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_125
+    name: Sierra Leone Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_126
+    name: Sierra Leone Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_127
+    name: Sierra Leone Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_128
+    name: Sierra Leone Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_129
+    name: Sierra Leone Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_130
+    name: Sierra Leone Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_131
+    name: Sierra Leone Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_132
+    name: Sierra Leone Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_133
+    name: Sierra Leone Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_134
+    name: Sierra Leone Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_135
+    name: Sierra Leone Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_136
+    name: Sierra Leone Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_137
+    name: Sierra Leone Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_138
+    name: Sierra Leone Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_139
+    name: Sierra Leone Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_140
+    name: Sierra Leone Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_141
+    name: Sierra Leone Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_142
+    name: Sierra Leone Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_143
+    name: Sierra Leone Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_144
+    name: Sierra Leone Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_145
+    name: Sierra Leone Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_146
+    name: Sierra Leone Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_147
+    name: Sierra Leone Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_148
+    name: Sierra Leone Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_149
+    name: Sierra Leone Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_150
+    name: Sierra Leone Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_151
+    name: Sierra Leone Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_152
+    name: Sierra Leone Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_153
+    name: Sierra Leone Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_154
+    name: Sierra Leone Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_155
+    name: Sierra Leone Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_156
+    name: Sierra Leone Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_157
+    name: Sierra Leone Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_158
+    name: Sierra Leone Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_159
+    name: Sierra Leone Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_160
+    name: Sierra Leone Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_161
+    name: Sierra Leone Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_162
+    name: Sierra Leone Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_163
+    name: Sierra Leone Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_164
+    name: Sierra Leone Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_165
+    name: Sierra Leone Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_166
+    name: Sierra Leone Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_167
+    name: Sierra Leone Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_168
+    name: Sierra Leone Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_169
+    name: Sierra Leone Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_170
+    name: Sierra Leone Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_171
+    name: Sierra Leone Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_172
+    name: Sierra Leone Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_173
+    name: Sierra Leone Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_174
+    name: Sierra Leone Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_175
+    name: Sierra Leone Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_176
+    name: Sierra Leone Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_177
+    name: Sierra Leone Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_178
+    name: Sierra Leone Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_179
+    name: Sierra Leone Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_180
+    name: Sierra Leone Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_181
+    name: Sierra Leone Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_182
+    name: Sierra Leone Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_183
+    name: Sierra Leone Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_184
+    name: Sierra Leone Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_185
+    name: Sierra Leone Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_186
+    name: Sierra Leone Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_187
+    name: Sierra Leone Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_188
+    name: Sierra Leone Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_189
+    name: Sierra Leone Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_190
+    name: Sierra Leone Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_191
+    name: Sierra Leone Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_192
+    name: Sierra Leone Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_193
+    name: Sierra Leone Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_194
+    name: Sierra Leone Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_195
+    name: Sierra Leone Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_196
+    name: Sierra Leone Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_197
+    name: Sierra Leone Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_198
+    name: Sierra Leone Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_199
+    name: Sierra Leone Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_200
+    name: Sierra Leone Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_201
+    name: Sierra Leone Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_202
+    name: Sierra Leone Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_203
+    name: Sierra Leone Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_204
+    name: Sierra Leone Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_205
+    name: Sierra Leone Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_206
+    name: Sierra Leone Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_207
+    name: Sierra Leone Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_208
+    name: Sierra Leone Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_209
+    name: Sierra Leone Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_210
+    name: Sierra Leone Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_211
+    name: Sierra Leone Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_212
+    name: Sierra Leone Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_213
+    name: Sierra Leone Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_214
+    name: Sierra Leone Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_215
+    name: Sierra Leone Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_216
+    name: Sierra Leone Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_217
+    name: Sierra Leone Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_218
+    name: Sierra Leone Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_219
+    name: Sierra Leone Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_220
+    name: Sierra Leone Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_221
+    name: Sierra Leone Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_222
+    name: Sierra Leone Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_223
+    name: Sierra Leone Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_224
+    name: Sierra Leone Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_225
+    name: Sierra Leone Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_226
+    name: Sierra Leone Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_227
+    name: Sierra Leone Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_228
+    name: Sierra Leone Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_229
+    name: Sierra Leone Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_230
+    name: Sierra Leone Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_231
+    name: Sierra Leone Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_232
+    name: Sierra Leone Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_233
+    name: Sierra Leone Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_234
+    name: Sierra Leone Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_235
+    name: Sierra Leone Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_236
+    name: Sierra Leone Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_237
+    name: Sierra Leone Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_238
+    name: Sierra Leone Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_239
+    name: Sierra Leone Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_240
+    name: Sierra Leone Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_241
+    name: Sierra Leone Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_242
+    name: Sierra Leone Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_243
+    name: Sierra Leone Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_244
+    name: Sierra Leone Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_245
+    name: Sierra Leone Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_246
+    name: Sierra Leone Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_247
+    name: Sierra Leone Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_248
+    name: Sierra Leone Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_249
+    name: Sierra Leone Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_250
+    name: Sierra Leone Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_251
+    name: Sierra Leone Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sl_252
+    name: Sierra Leone Skill 252
+    status: ACTIVE_SCAFFOLD
