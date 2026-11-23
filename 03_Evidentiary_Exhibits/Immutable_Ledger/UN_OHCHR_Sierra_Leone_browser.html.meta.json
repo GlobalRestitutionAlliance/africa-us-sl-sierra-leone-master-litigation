@@ -1,0 +1,16 @@
+{
+  "url": "https://www.ohchr.org/en/countries/sierra-leone",
+  "final_url": "https://www.ohchr.org/en/countries/sierra-leone",
+  "title": "UN OHCHR Sierra Leone",
+  "fetched_at": "2026-11-23T07:26:21.150301Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 80020,
+  "sha256": "c7231641e6c05767093182751339468abd22849db580ac7c2c97ea17c2062792",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": true
+}
